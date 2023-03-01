@@ -18,6 +18,6 @@
 ![](https://github.com/Egroses/ZombieIsland/blob/main/Images/Fire.png)
 
 **Zombie Mob**\
-![](https://github.com/Egroses/ZombieIsland/blob/main/Images/ZombieHorde1.png)\
+![](https://github.com/Egroses/ZombieIsland/blob/main/Images/ZombieHorde1.png)
 
 ![](https://github.com/Egroses/ZombieIsland/blob/main/Images/ZombieHorde2.png)
