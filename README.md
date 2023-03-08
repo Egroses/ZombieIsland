@@ -6,11 +6,11 @@ This is a survival game.
 
    Basically;
 
-  - User trying to survive on the island.
+  - User trying to survives on the island.
   
-  - User can shoot the zombies with rifle.
+  - User can shoots the zombies with rifle.
   
-  - If user can surive for three day, then user escape from island.
+  - If user can survives for three day, then user escapes from island.
  
 
    
